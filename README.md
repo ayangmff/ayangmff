@@ -1,6 +1,4 @@
 - Nama : Ayang marliani fauziah
 - NIM  : 20220040246
 - kelas: TI22A
-- Prodi: Teknik Informatika 
-- 
-
+- Prodi: Teknik Informatika
